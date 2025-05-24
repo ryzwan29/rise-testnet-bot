@@ -1,0 +1,4 @@
+pemandu karoke 1
+pemandu karoke 2
+pemandu karoke 3 
+dst
