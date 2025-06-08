@@ -3,3 +3,5 @@ eth-account
 requests 
 rich 
 termcolor
+setuptools
+seleniumbase
